@@ -1,0 +1,6 @@
+schemaVersion: "1"
+kind: mixin
+name: change-report-bot-kit
+description: |
+  Skills for the change-report bot. Injects the notion-report skill into
+  the sandbox's ~/.claude/skills directory.

@@ -1,0 +1,6 @@
+schemaVersion: "1"
+kind: mixin
+name: pr-bot-kit
+description: |
+  Skills for the PR bot. Injects the research-pr skill into the
+  sandbox's ~/.claude/skills directory.
